@@ -12,4 +12,3 @@ of suitable size containing the corresponding grey values so that each grey valu
 rounded average of the corresponding three colour values. If the filename is not the
 empty string the method should also save the image in the corresponding file as a PGM
 image.
------------------------------------------------------------
